@@ -36,10 +36,10 @@
             // 
             // BtnVoltar
             // 
-            this.BtnVoltar.Location = new System.Drawing.Point(1389, 762);
-            this.BtnVoltar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.BtnVoltar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.BtnVoltar.Location = new System.Drawing.Point(1042, 619);
             this.BtnVoltar.Name = "BtnVoltar";
-            this.BtnVoltar.Size = new System.Drawing.Size(173, 37);
+            this.BtnVoltar.Size = new System.Drawing.Size(130, 30);
             this.BtnVoltar.TabIndex = 0;
             this.BtnVoltar.Text = "VOLTAR";
             this.BtnVoltar.UseVisualStyleBackColor = true;
@@ -52,9 +52,8 @@
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(59)))), ((int)(((byte)(108)))), ((int)(((byte)(181)))));
             this.panel1.Controls.Add(this.label1);
             this.panel1.Location = new System.Drawing.Point(0, 0);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1600, 74);
+            this.panel1.Size = new System.Drawing.Size(1200, 60);
             this.panel1.TabIndex = 2;
             // 
             // label1
@@ -62,24 +61,23 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.ActiveCaption;
-            this.label1.Location = new System.Drawing.Point(700, 14);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(525, 11);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(188, 52);
+            this.label1.Size = new System.Drawing.Size(151, 39);
             this.label1.TabIndex = 0;
             this.label1.Text = "Estoque";
             // 
             // FrmEstoque
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1579, 814);
+            this.ClientSize = new System.Drawing.Size(1184, 661);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.BtnVoltar);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "FrmEstoque";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FrmEstoque";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.ResumeLayout(false);

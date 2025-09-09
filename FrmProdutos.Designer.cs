@@ -34,10 +34,9 @@
             // BtnVoltar
             // 
             this.BtnVoltar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.BtnVoltar.Location = new System.Drawing.Point(988, 597);
-            this.BtnVoltar.Margin = new System.Windows.Forms.Padding(4);
+            this.BtnVoltar.Location = new System.Drawing.Point(1037, 615);
             this.BtnVoltar.Name = "BtnVoltar";
-            this.BtnVoltar.Size = new System.Drawing.Size(173, 37);
+            this.BtnVoltar.Size = new System.Drawing.Size(130, 30);
             this.BtnVoltar.TabIndex = 0;
             this.BtnVoltar.Text = "VOLTAR";
             this.BtnVoltar.UseVisualStyleBackColor = true;
@@ -45,12 +44,11 @@
             // 
             // FrmProdutos
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1178, 649);
+            this.ClientSize = new System.Drawing.Size(1180, 657);
             this.Controls.Add(this.BtnVoltar);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
-            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FrmProdutos";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FrmProdutos";
