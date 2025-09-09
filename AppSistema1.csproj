@@ -187,5 +187,8 @@
   <ItemGroup>
     <None Include="Imagens\placa mae1.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\R.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

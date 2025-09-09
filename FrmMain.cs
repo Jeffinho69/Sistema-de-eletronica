@@ -56,12 +56,17 @@ namespace AppSistema1
 
         private void button6_Click(object sender, EventArgs e)
         {
-           
+            Application.Exit();
         }
 
         private void TxtSystem_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            LabelRelogio.Text = DateTime.Now.ToString("(dd/MM/yyyy) | (HH:mm:ss)");
         }
 
         private void button3_Click(object sender, EventArgs e)

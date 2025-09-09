@@ -28,9 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.panel1 = new System.Windows.Forms.Panel();
             this.TxtSystem = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.LabelRelogio = new System.Windows.Forms.Label();
             this.button7 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
@@ -48,6 +51,7 @@
             this.panel1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(59)))), ((int)(((byte)(108)))), ((int)(((byte)(181)))));
+            this.panel1.Controls.Add(this.LabelRelogio);
             this.panel1.Controls.Add(this.TxtSystem);
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
@@ -62,7 +66,7 @@
             this.TxtSystem.ForeColor = System.Drawing.SystemColors.ActiveCaption;
             this.TxtSystem.Location = new System.Drawing.Point(432, 16);
             this.TxtSystem.Name = "TxtSystem";
-            this.TxtSystem.Size = new System.Drawing.Size(416, 36);
+            this.TxtSystem.Size = new System.Drawing.Size(337, 29);
             this.TxtSystem.TabIndex = 0;
             this.TxtSystem.Text = "SISTEMA DE ELETRONICA";
             this.TxtSystem.Click += new System.EventHandler(this.TxtSystem_Click);
@@ -71,7 +75,7 @@
             // 
             this.panel2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
-            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(5)))), ((int)(((byte)(28)))));
+            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(59)))), ((int)(((byte)(108)))), ((int)(((byte)(181)))));
             this.panel2.Controls.Add(this.button7);
             this.panel2.Controls.Add(this.button5);
             this.panel2.Controls.Add(this.button3);
@@ -85,10 +89,29 @@
             this.panel2.Size = new System.Drawing.Size(200, 595);
             this.panel2.TabIndex = 1;
             // 
+            // timer1
+            // 
+            this.timer1.Enabled = true;
+            this.timer1.Interval = 1000;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
+            // LabelRelogio
+            // 
+            this.LabelRelogio.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.LabelRelogio.AutoSize = true;
+            this.LabelRelogio.ForeColor = System.Drawing.SystemColors.ActiveCaption;
+            this.LabelRelogio.Location = new System.Drawing.Point(0, 20);
+            this.LabelRelogio.Name = "LabelRelogio";
+            this.LabelRelogio.Size = new System.Drawing.Size(63, 20);
+            this.LabelRelogio.TabIndex = 1;
+            this.LabelRelogio.Text = "Rélogio";
+            // 
             // button7
             // 
+            this.button7.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button7.FlatAppearance.BorderSize = 0;
-            this.button7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(59)))), ((int)(((byte)(108)))), ((int)(((byte)(181)))));
+            this.button7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button7.ForeColor = System.Drawing.Color.White;
             this.button7.Image = global::AppSistema1.Properties.Resources.relatorio1;
@@ -103,8 +126,9 @@
             // 
             // button5
             // 
+            this.button5.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button5.FlatAppearance.BorderSize = 0;
-            this.button5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(59)))), ((int)(((byte)(108)))), ((int)(((byte)(181)))));
+            this.button5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button5.ForeColor = System.Drawing.Color.White;
             this.button5.Image = global::AppSistema1.Properties.Resources.nf1;
@@ -118,8 +142,9 @@
             // 
             // button3
             // 
+            this.button3.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button3.FlatAppearance.BorderSize = 0;
-            this.button3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(59)))), ((int)(((byte)(108)))), ((int)(((byte)(181)))));
+            this.button3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button3.ForeColor = System.Drawing.Color.White;
             this.button3.Image = global::AppSistema1.Properties.Resources.clientes1;
@@ -134,8 +159,9 @@
             // 
             // button8
             // 
+            this.button8.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button8.FlatAppearance.BorderSize = 0;
-            this.button8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(59)))), ((int)(((byte)(108)))), ((int)(((byte)(181)))));
+            this.button8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button8.ForeColor = System.Drawing.Color.White;
             this.button8.Image = global::AppSistema1.Properties.Resources.estoque1;
@@ -150,8 +176,9 @@
             // 
             // button4
             // 
+            this.button4.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button4.FlatAppearance.BorderSize = 0;
-            this.button4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(59)))), ((int)(((byte)(108)))), ((int)(((byte)(181)))));
+            this.button4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button4.ForeColor = System.Drawing.Color.White;
             this.button4.Image = global::AppSistema1.Properties.Resources.rota1;
@@ -180,8 +207,9 @@
             // 
             // button1
             // 
+            this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button1.FlatAppearance.BorderSize = 0;
-            this.button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(59)))), ((int)(((byte)(108)))), ((int)(((byte)(181)))));
+            this.button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.ForeColor = System.Drawing.Color.White;
             this.button1.Image = global::AppSistema1.Properties.Resources.carrinho2;
@@ -196,6 +224,7 @@
             // 
             // button6
             // 
+            this.button6.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button6.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.button6.FlatAppearance.BorderSize = 0;
             this.button6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(59)))), ((int)(((byte)(108)))), ((int)(((byte)(181)))));
@@ -212,11 +241,12 @@
             // 
             // FrmMain
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1182, 653);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
+            this.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
@@ -246,6 +276,8 @@
         private System.Windows.Forms.Button button8;
         private System.Windows.Forms.Button button6;
         private System.Windows.Forms.Label TxtSystem;
+        private System.Windows.Forms.Label LabelRelogio;
+        private System.Windows.Forms.Timer timer1;
     }
 }
 
