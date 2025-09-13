@@ -11,12 +11,12 @@ using System.Threading;
 
 namespace AppSistema1
 {
-    public partial class FrmMain : Form
+    public partial class FrmMenu : Form
     {
     
 
         Thread ntProdutos, ntCliente,ntEstoque;
-        public FrmMain()
+        public FrmMenu()
         {
             InitializeComponent();
 

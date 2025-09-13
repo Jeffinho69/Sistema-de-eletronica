@@ -30,7 +30,7 @@ namespace AppSistema1
 
         private void novoFrmMain()
         {
-            Application.Run(new FrmMain());
+            Application.Run(new FrmMenu());
         }
 
         

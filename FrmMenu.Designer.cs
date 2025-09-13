@@ -1,6 +1,6 @@
 ﻿namespace AppSistema1
 {
-    partial class FrmMain
+    partial class FrmMenu
     {
         /// <summary>
         /// Variável de designer necessária.
