@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace AppSistema1.Properties
+namespace projeto_1.Properties
 {
 
 

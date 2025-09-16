@@ -1,0 +1,163 @@
+D:\aula 02\02\tentativa 1\projeto 1\bin\Debug\projeto 1.exe.config
+D:\aula 02\02\tentativa 1\projeto 1\bin\Debug\projeto 1.exe
+D:\aula 02\02\tentativa 1\projeto 1\bin\Debug\projeto 1.pdb
+D:\aula 02\02\tentativa 1\projeto 1\obj\Debug\projeto 1.csproj.AssemblyReference.cache
+D:\aula 02\02\tentativa 1\projeto 1\obj\Debug\projeto_1.Properties.Resources.resources
+D:\aula 02\02\tentativa 1\projeto 1\obj\Debug\projeto 1.csproj.GenerateResource.cache
+D:\aula 02\02\tentativa 1\projeto 1\obj\Debug\projeto 1.csproj.CoreCompileInputs.cache
+D:\aula 02\02\tentativa 1\projeto 1\obj\Debug\projeto 1.exe
+D:\aula 02\02\tentativa 1\projeto 1\obj\Debug\projeto 1.pdb
+D:\aula 02\02\tentativa 1\projeto 1\obj\Debug\projeto 1.exe.config
+D:\aula 02\02\tentativa 1\projeto 1\obj\Debug\projeto_1.FormMain.resources
+D:\aula 02\02\tentativa 1\projeto 1\obj\Debug\projeto_1.FrmLogin.resources
+D:\teste bd\teste bd\projeto 1\bin\Debug\projeto 1.exe.config
+D:\teste bd\teste bd\projeto 1\bin\Debug\projeto 1.exe
+D:\teste bd\teste bd\projeto 1\bin\Debug\projeto 1.pdb
+D:\teste bd\teste bd\projeto 1\obj\Debug\projeto 1.csproj.AssemblyReference.cache
+D:\teste bd\teste bd\projeto 1\obj\Debug\projeto 1.exe.config
+D:\teste bd\teste bd\projeto 1\obj\Debug\projeto_1.FrmLogin.resources
+D:\teste bd\teste bd\projeto 1\obj\Debug\projeto_1.Properties.Resources.resources
+D:\teste bd\teste bd\projeto 1\obj\Debug\projeto 1.csproj.GenerateResource.cache
+D:\teste bd\teste bd\projeto 1\obj\Debug\projeto 1.csproj.CoreCompileInputs.cache
+D:\teste bd\teste bd\projeto 1\obj\Debug\projeto 1.exe
+D:\teste bd\teste bd\projeto 1\obj\Debug\projeto 1.pdb
+D:\teste bd\teste bd\projeto 1\obj\Debug\projeto_1.FrmCadastro.resources
+D:\teste bd\teste bd\projeto 1\obj\Debug\projeto_1.Frmmenu.resources
+D:\teste bd\teste bd\projeto 2\bin\Debug\projeto 1.exe.config
+D:\teste bd\teste bd\projeto 2\bin\Debug\projeto 1.exe
+D:\teste bd\teste bd\projeto 2\bin\Debug\projeto 1.pdb
+D:\teste bd\teste bd\projeto 2\bin\Debug\BouncyCastle.Cryptography.dll
+D:\teste bd\teste bd\projeto 2\bin\Debug\Google.Protobuf.dll
+D:\teste bd\teste bd\projeto 2\bin\Debug\K4os.Compression.LZ4.dll
+D:\teste bd\teste bd\projeto 2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\teste bd\teste bd\projeto 2\bin\Debug\K4os.Hash.xxHash.dll
+D:\teste bd\teste bd\projeto 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\teste bd\teste bd\projeto 2\bin\Debug\MySql.Data.dll
+D:\teste bd\teste bd\projeto 2\bin\Debug\System.Buffers.dll
+D:\teste bd\teste bd\projeto 2\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\teste bd\teste bd\projeto 2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\teste bd\teste bd\projeto 2\bin\Debug\System.IO.Pipelines.dll
+D:\teste bd\teste bd\projeto 2\bin\Debug\System.Memory.dll
+D:\teste bd\teste bd\projeto 2\bin\Debug\System.Numerics.Vectors.dll
+D:\teste bd\teste bd\projeto 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\teste bd\teste bd\projeto 2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\teste bd\teste bd\projeto 2\bin\Debug\ZstdSharp.dll
+D:\teste bd\teste bd\projeto 2\bin\Debug\BouncyCastle.Cryptography.xml
+D:\teste bd\teste bd\projeto 2\bin\Debug\Google.Protobuf.pdb
+D:\teste bd\teste bd\projeto 2\bin\Debug\Google.Protobuf.xml
+D:\teste bd\teste bd\projeto 2\bin\Debug\K4os.Compression.LZ4.xml
+D:\teste bd\teste bd\projeto 2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\teste bd\teste bd\projeto 2\bin\Debug\K4os.Hash.xxHash.xml
+D:\teste bd\teste bd\projeto 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\teste bd\teste bd\projeto 2\bin\Debug\MySql.Data.xml
+D:\teste bd\teste bd\projeto 2\bin\Debug\System.Buffers.xml
+D:\teste bd\teste bd\projeto 2\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\teste bd\teste bd\projeto 2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\teste bd\teste bd\projeto 2\bin\Debug\System.IO.Pipelines.xml
+D:\teste bd\teste bd\projeto 2\bin\Debug\System.Memory.xml
+D:\teste bd\teste bd\projeto 2\bin\Debug\System.Numerics.Vectors.xml
+D:\teste bd\teste bd\projeto 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\teste bd\teste bd\projeto 2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\teste bd\teste bd\projeto 2\obj\Debug\projeto 1.csproj.AssemblyReference.cache
+D:\teste bd\teste bd\projeto 2\obj\Debug\projeto 1.exe.config
+D:\teste bd\teste bd\projeto 2\obj\Debug\projeto_1.FrmCadastro.resources
+D:\teste bd\teste bd\projeto 2\obj\Debug\projeto_1.FrmLogin.resources
+D:\teste bd\teste bd\projeto 2\obj\Debug\projeto_1.Frmmenu.resources
+D:\teste bd\teste bd\projeto 2\obj\Debug\projeto_1.Properties.Resources.resources
+D:\teste bd\teste bd\projeto 2\obj\Debug\projeto 1.csproj.GenerateResource.cache
+D:\teste bd\teste bd\projeto 2\obj\Debug\projeto 1.csproj.CoreCompileInputs.cache
+D:\teste bd\teste bd\projeto 2\obj\Debug\projeto 1.csproj.Up2Date
+D:\teste bd\teste bd\projeto 2\obj\Debug\projeto 1.exe
+D:\teste bd\teste bd\projeto 2\obj\Debug\projeto 1.pdb
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\projeto 1.exe.config
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\projeto 1.exe
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\projeto 1.pdb
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\Google.Protobuf.dll
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\MySql.Data.dll
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\System.Buffers.dll
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\System.Memory.dll
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\ZstdSharp.dll
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\Google.Protobuf.xml
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\MySql.Data.xml
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\System.Buffers.xml
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\System.Memory.xml
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\obj\Debug\projeto 1.csproj.AssemblyReference.cache
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\obj\Debug\projeto 1.exe.config
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\obj\Debug\projeto_1.FrmCadastro.resources
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\obj\Debug\projeto_1.FrmLogin.resources
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\obj\Debug\projeto_1.Frmmenu.resources
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\obj\Debug\projeto_1.Properties.Resources.resources
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\obj\Debug\projeto 1.csproj.GenerateResource.cache
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\obj\Debug\projeto 1.csproj.CoreCompileInputs.cache
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\obj\Debug\projeto 1.csproj.Up2Date
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\obj\Debug\projeto 1.exe
+C:\Users\Jeffinho\Downloads\Gabriel\teste bd\teste bd\projeto 2\obj\Debug\projeto 1.pdb
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\projeto 1.exe.config
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\projeto 1.exe
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\projeto 1.pdb
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\Google.Protobuf.dll
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\MySql.Data.dll
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\System.Buffers.dll
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\System.Memory.dll
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\ZstdSharp.dll
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\Google.Protobuf.pdb
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\Google.Protobuf.xml
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\MySql.Data.xml
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\System.Buffers.xml
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\System.Memory.xml
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\obj\Debug\projeto 1.csproj.AssemblyReference.cache
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\obj\Debug\projeto 1.exe.config
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\obj\Debug\projeto_1.FrmCadastro.resources
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\obj\Debug\projeto_1.FrmLogin.resources
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\obj\Debug\projeto_1.Frmmenu.resources
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\obj\Debug\projeto_1.Properties.Resources.resources
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\obj\Debug\projeto 1.csproj.GenerateResource.cache
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\obj\Debug\projeto 1.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\obj\Debug\projeto 1.csproj.Up2Date
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\obj\Debug\projeto 1.exe
+C:\Users\ALUNO_14\Downloads\teste bd\teste bd\projeto 2\obj\Debug\projeto 1.pdb
